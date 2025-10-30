@@ -4,7 +4,7 @@ public class H1_main {
 	public static void main(String[] args) {
 
 		int z;
-		z = 6;
+		z = 400;
 		
 		if (z > 10) {
 			z = z - 10;

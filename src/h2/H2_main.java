@@ -3,7 +3,7 @@ package h2;
 public class H2_main {
 	public static void main(String[] args) {
 
-		int i = 343, j = 2, k = 18, min, max;
+		int i = 343, j = 343, k = 18, min, max;
 		
 		if (i < j) {
 			min = i;
